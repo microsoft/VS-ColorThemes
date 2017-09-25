@@ -1,14 +1,4 @@
-﻿[$RootKey$\Themes\{1ee2bdad-9d60-4290-8e08-7687a1e886b3}]
-@="Dark (Extra Contrast)"
-"Name"="Dark (Extra Contrast)"
-"IsDesignable"=dword:1
-
-[$RootKey$\Themes\{b49082c5-f886-4c6d-b174-b16cff77b64a}]
-@="Light (Extra Contrast)"
-"Name"="Light (Extra Contrast)"
-"IsDesignable"=dword:1
-
-[$RootKey$\Themes\{7bcb0df8-497b-4625-a516-85eb952736d4}]
+﻿[$RootKey$\Themes\{7bcb0df8-497b-4625-a516-85eb952736d4}]
 @="Dark With Light Editor"
 "Name"="Dark With Light Editor"
 "IsDesignable"=dword:1
