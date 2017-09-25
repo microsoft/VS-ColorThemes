@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="VSColorThemes.8643b166-c815-4f07-b9ec-64be1f7b8a59" Version="1.0.1" Language="en-US" Publisher="Microsoft" />
+        <DisplayName>VS Color Themes</DisplayName>
+        <Description xml:space="preserve">Visual Studio Extension that installs additional color themes</Description>
+        <MoreInfo>https://github.com/justcla/VSColorThemes</MoreInfo>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Version="[12.0,)" Id="Microsoft.VisualStudio.IntegratedShell" />
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\DarkExtraContrast.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\DarkWithLightEditor.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Green.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\LightExtraContrast.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\LightWithDarkEditor.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Purple.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Red.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\SolarizedDark.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\SolarizedLight.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Tan.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="ThemeRegistration.pkgdef" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
