@@ -1,39 +1,31 @@
 ﻿[$RootKey$\Themes\{7bcb0df8-497b-4625-a516-85eb952736d4}]
 @="Dark With Light Editor"
 "Name"="Dark With Light Editor"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{d016fd24-5710-4580-b430-d028ca98ba03}]
 @="Green"
 "Name"="Green"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{6ef95f9a-b5ee-49c3-b218-76a232fddd6d}]
 @="Light With Dark Editor"
 "Name"="Light With Dark Editor"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{6e300d1d-68b8-4ecc-96bc-17d5616fcf2a}]
 @="Purple"
 "Name"="Purple"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{8b9939b9-0421-4e81-82c6-cedec9711dd6}]
 @="Red"
 "Name"="Red"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{38e3e606-7057-447d-9261-9712f3dc85d0}]
 @="Tan"
 "Name"="Tan"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{0f51b80f-c0e3-40f4-8e25-7fb09b68033b}]
 @="Solarized (Dark)"
 "Name"="Solarized (Dark)"
-"IsDesignable"=dword:1
 
 [$RootKey$\Themes\{4ddf4170-711c-4b6a-b3b6-fb417528aa12}]
 @="Solarized (Light)"
 "Name"="Solarized (Light)"
-"IsDesignable"=dword:1
