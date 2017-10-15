@@ -1,2 +1,3 @@
 ﻿Color Themes for Visual Studio
+15-Oct-2017 - v1.0.4 - Added GreenShah theme from Shahriar (yazdipour)
 10-Oct-2017 - v1.0.1 - Intial release. Includes the eight themes originally released with Color Theme Editor for Visual Studio 2017.
