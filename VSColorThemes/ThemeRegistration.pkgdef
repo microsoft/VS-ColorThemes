@@ -26,10 +26,6 @@
 @="Red"
 "Name"="Red"
 
-[$RootKey$\Themes\{38e3e606-7057-447d-9261-9712f3dc85d0}]
-@="Tan"
-"Name"="Tan"
-
 [$RootKey$\Themes\{0f51b80f-c0e3-40f4-8e25-7fb09b68033b}]
 @="Solarized (Dark)"
 "Name"="Solarized (Dark)"
@@ -37,3 +33,11 @@
 [$RootKey$\Themes\{4ddf4170-711c-4b6a-b3b6-fb417528aa12}]
 @="Solarized (Light)"
 "Name"="Solarized (Light)"
+
+[$RootKey$\Themes\{bacdda6b-0187-4262-8a05-2f083f0ff473}]
+@="Sublime Material (Dark)"
+"Name"="Sublime Material (Dark)"
+
+[$RootKey$\Themes\{38e3e606-7057-447d-9261-9712f3dc85d0}]
+@="Tan"
+"Name"="Tan"
