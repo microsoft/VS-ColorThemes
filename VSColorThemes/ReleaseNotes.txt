@@ -1,3 +1,4 @@
 ﻿Color Themes for Visual Studio
+23-Oct-2017 - v1.0.5 - Added Dark Extra Contrast theme from Mitch Muenster (MobileRez)
 15-Oct-2017 - v1.0.4 - Added GreenShah theme from Shahriar (yazdipour)
 10-Oct-2017 - v1.0.1 - Intial release. Includes the eight themes originally released with Color Theme Editor for Visual Studio 2017.
