@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Dark (1)" GUID="{bacdda6b-0187-4262-8a05-2f083f0ff473}">
+  <Theme Name="Sublime Material (Dark)" GUID="{bacdda6b-0187-4262-8a05-2f083f0ff473}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -977,7 +977,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1017,7 +1017,7 @@
       </Color>
       <Color Name="Literal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="SymbolDefinitionClassificationFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1113,7 +1113,7 @@
       </Color>
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBD63C5" />
+        <Foreground Type="CT_RAW" Source="FFD5A2DF" />
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1121,7 +1121,7 @@
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1129,19 +1129,19 @@
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7F7F7F" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="CppRefTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="CppValueTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="001E1E1E" />
@@ -1153,7 +1153,7 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1173,11 +1173,11 @@
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1193,7 +1193,7 @@
       </Color>
       <Color Name="CppUDLRawSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="CppUDLNumberSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1201,7 +1201,7 @@
       </Color>
       <Color Name="CppUDLStringSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="CppOperatorSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1225,7 +1225,7 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1241,7 +1241,7 @@
       </Color>
       <Color Name="CSS String Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="HTML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1253,7 +1253,7 @@
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1277,11 +1277,11 @@
       </Color>
       <Color Name="VBScript Keyword">
         <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="VBScript Comment">
         <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="VBScript Operator">
         <Background Type="CT_COLORINDEX" Source="00000001" />
@@ -1293,7 +1293,7 @@
       </Color>
       <Color Name="VBScript String">
         <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="VBScript Identifier">
         <Background Type="CT_COLORINDEX" Source="00000001" />
@@ -1409,23 +1409,23 @@
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FFF07178" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1453,27 +1453,27 @@
       </Color>
       <Color Name="xml doc comment - comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml doc comment - entity reference">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml doc comment - text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1493,7 +1493,7 @@
       </Color>
       <Color Name="xml literal - comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="xml literal - delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1589,7 +1589,7 @@
       </Color>
       <Color Name="LessCssKeywordFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69C56" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="ScssMixinDeclarationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1606,6 +1606,10 @@
       <Color Name="ScssVariableReferenceFormat">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFC563BD" />
+      </Color>
+      <Color Name="Line Number">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF82B7E1" />
       </Color>
       <Color Name="mergeEditor.AcceptedLineHC">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1727,10 +1731,6 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="Line Number">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF82B7E1" />
-      </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -1749,7 +1749,7 @@
       </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="XML Doc Tag">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2764,7 +2764,7 @@
         <Background Type="CT_RAW" Source="FFFFFFCC" />
       </Color>
       <Color Name="ClassDesignerCommentText">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="ClassDesignerCompartmentSeparator">
         <Background Type="CT_RAW" Source="FFD2D2D2" />
@@ -5604,7 +5604,7 @@
         <Background Type="CT_RAW" Source="FFF6B94D" />
       </Color>
       <Color Name="PluginFontEditorStringColor">
-        <Foreground Type="CT_RAW" Source="FFA31515" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="PluginHighlightBorderColor">
         <Foreground Type="CT_RAW" Source="00000000" />
@@ -7051,7 +7051,7 @@
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7059,7 +7059,7 @@
       </Color>
       <Color Name="String">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC3E87E" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7071,7 +7071,7 @@
       </Color>
       <Color Name="XML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="Memory Changed">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7095,7 +7095,7 @@
       </Color>
       <Color Name="Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="SQL Stored Procedure">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7115,7 +7115,7 @@
       </Color>
       <Color Name="SQL String">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCB4141" />
+        <Foreground Type="CT_RAW" Source="FFC3E88D" />
       </Color>
       <Color Name="SQLCMD Command">
         <Background Type="CT_RAW" Source="FF484848" />
@@ -7139,7 +7139,7 @@
       </Color>
       <Color Name="XAML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="XAML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
