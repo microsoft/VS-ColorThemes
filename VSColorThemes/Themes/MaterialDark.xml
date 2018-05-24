@@ -41,7 +41,7 @@
         <Foreground Type="CT_RAW" Source="FF3F3F46" />
       </Color>
       <Color Name="Chevron">
-        <Foreground Type="CT_SYSCOLOR" Source="FF7E6693" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
     </Category>
     <Category Name="ApplicationInsights" GUID="{fb17cf37-09ea-44a4-88a6-cd806fc6a24a}">
@@ -7222,7 +7222,7 @@
       </Color>
       <Color Name="XAML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF81D4FA" />
       </Color>
       <Color Name="XAML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7234,7 +7234,7 @@
       </Color>
       <Color Name="XAML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE6E6E6" />
+        <Foreground Type="CT_RAW" Source="FFFFA000" />
       </Color>
       <Color Name="XAML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7250,7 +7250,7 @@
       </Color>
       <Color Name="XAML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="XAML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8129,34 +8129,34 @@
     </Category>
     <Category Name="VisualStudioInstaller" GUID="{53212856-7528-403d-84e6-76820f4cef73}">
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF303031" />
       </Color>
       <Color Name="Border">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="HeaderTextBrand">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="PivotText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="PivotBar">
         <Background Type="CT_RAW" Source="FF7986CB" />
       </Color>
       <Color Name="SectionDivider">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF2A2A2B" />
       </Color>
       <Color Name="HeaderText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="SectionHeaderText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF7986CB" />
       </Color>
       <Color Name="SupportText">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="BodyText">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF5C6BC0" />
