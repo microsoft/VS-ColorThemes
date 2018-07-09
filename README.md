@@ -15,7 +15,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 
 ## Steps to create a custom theme for this project
-0. Prerequisite: Install the Color Themes Editor extension for Visual Studio 2017 (https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2017ColorThemeEditor).
+0. Prerequisite: Install the Color Themes Editor extension for Visual Studio 2017 (https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor).
 1. Go to Tools -> Customize Colors.
 2. Hover over the original theme you want to edit and click on 'Create Copy of Theme'.
 3. Hover over the Custom Theme you created, and click on 'Edit Theme'.
