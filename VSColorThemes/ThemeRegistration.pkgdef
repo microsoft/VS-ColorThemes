@@ -22,6 +22,10 @@
 @="Light With Dark Editor"
 "Name"="Light With Dark Editor"
 
+[$RootKey$\Themes\{c31b780c-8965-4394-9d9d-965417981752}]
+@="Material"
+"Name"="Material"
+
 [$RootKey$\Themes\{ebed94bb-2cbe-413a-87ad-8bed2b19d350}]
 @="Plain Dark"
 "Name"="Plain Dark"
