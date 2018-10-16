@@ -56,7 +56,6 @@
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
-    <Content Include="Themes\SublimeMaterialDark.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
@@ -69,15 +68,19 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Themes\Bigface.xml" />
     <Content Include="Themes\DarkExtraContrast.xml" />
     <Content Include="Themes\DarkWithLightEditor.xml" />
     <Content Include="Themes\Green.xml" />
     <Content Include="Themes\GreenShah.xml" />
     <Content Include="Themes\LightWithDarkEditor.xml" />
+    <Content Include="Themes\MaterialDark.xml" />
+    <Content Include="Themes\PlainDark.xml" />
     <Content Include="Themes\Purple.xml" />
     <Content Include="Themes\Red.xml" />
     <Content Include="Themes\SolarizedDark.xml" />
     <Content Include="Themes\SolarizedLight.xml" />
+    <Content Include="Themes\SublimeMaterialDark.xml" />
     <Content Include="Themes\Tan.xml" />
     <Content Include="VsColorTheme_Icon_90x.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSColorThemes.8643b166-c815-4f07-b9ec-64be1f7b8a59" Version="1.0.6" Language="en-US" Publisher="Open Source Community" />
+        <Identity Id="VSColorThemes.8643b166-c815-4f07-b9ec-64be1f7b8a59" Version="1.0.9" Language="en-US" Publisher="Open Source Community" />
         <DisplayName>Color Themes for Visual Studio</DisplayName>
-        <Description xml:space="preserve">Visual Studio Extension that installs additional color themes</Description>
+        <Description xml:space="preserve">Provides additional color themes for Visual Studio IDE. Includes themes contributed by community members plus themes from Microsoft's Color Themes Editor.</Description>
         <MoreInfo>https://github.com/Microsoft/VS-ColorThemes</MoreInfo>
         <License>EULA.rtf</License>
         <ReleaseNotes>ReleaseNotes.txt</ReleaseNotes>
@@ -16,11 +16,13 @@
         <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
     </Dependencies>
     <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Bigface.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\DarkExtraContrast.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\DarkWithLightEditor.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Green.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\GreenShah.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\LightWithDarkEditor.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\PlainDark.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Purple.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Red.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\SolarizedDark.pkgdef" />

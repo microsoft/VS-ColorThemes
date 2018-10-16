@@ -1,4 +1,7 @@
 ﻿Color Themes for Visual Studio
+03-Aug-2018 - v1.0.9 - Added Plain Dark theme from Ivan Sukhetskyi (isukhetskyi) and Bigface theme from Jun Guo (gjuoun)
+29-Jun-2018 - v1.0.8 - Restored Sublime Material (Dark) theme.
+27-Jun-2018 - v1.0.7 - Complete overhaul of Sublime Material (Dark) theme. Now "Material Dark".
 23-Oct-2017 - v1.0.6 - Added Sublime Material (Dark) theme from Revolution (revosw)
 23-Oct-2017 - v1.0.5 - Added Dark Extra Contrast theme from Mitch Muenster (MobileRez)
 15-Oct-2017 - v1.0.4 - Added GreenShah theme from Shahriar (yazdipour)
