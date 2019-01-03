@@ -49,6 +49,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BlueMoon.pkgdef">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="EULA.rtf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
@@ -69,6 +73,11 @@
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Themes\Bigface.xml" />
+    <Content Include="Themes\BlueMoon.pkgdef">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Themes\BlueMoon.xml" />
     <Content Include="Themes\DarkExtraContrast.xml" />
     <Content Include="Themes\DarkWithLightEditor.xml" />
     <Content Include="Themes\Green.xml" />

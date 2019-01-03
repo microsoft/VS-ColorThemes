@@ -31,6 +31,7 @@
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\SublimeMaterialDark.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Tan.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="ThemeRegistration.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\BlueMoon.pkgdef" d:VsixSubPath="Themes" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,)" DisplayName="Visual Studio core editor" />
