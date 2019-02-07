@@ -30,6 +30,7 @@
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\SolarizedLight.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\SublimeMaterialDark.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Tan.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Tomat7.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="ThemeRegistration.pkgdef" />
     </Assets>
     <Prerequisites>
