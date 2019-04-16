@@ -1,8 +1,9 @@
-﻿Color Themes for Visual Studio
-03-Aug-2018 - v1.0.9 - Added Plain Dark theme from Ivan Sukhetskyi (isukhetskyi) and Bigface theme from Jun Guo (gjuoun)
-29-Jun-2018 - v1.0.8 - Restored Sublime Material (Dark) theme.
-27-Jun-2018 - v1.0.7 - Complete overhaul of Sublime Material (Dark) theme. Now "Material Dark".
-23-Oct-2017 - v1.0.6 - Added Sublime Material (Dark) theme from Revolution (revosw)
-23-Oct-2017 - v1.0.5 - Added Dark Extra Contrast theme from Mitch Muenster (MobileRez)
-15-Oct-2017 - v1.0.4 - Added GreenShah theme from Shahriar (yazdipour)
-10-Oct-2017 - v1.0.1 - Intial release. Includes the eight themes originally released with Color Theme Editor for Visual Studio 2017.
+Color Themes for Visual Studio
+16-Apr-2019 - v1.0.10 - Added Visual Studio 2019 support.
+03-Aug-2018 - v1.0.9  - Added Plain Dark theme from Ivan Sukhetskyi (isukhetskyi) and Bigface theme from Jun Guo (gjuoun).
+29-Jun-2018 - v1.0.8  - Restored Sublime Material (Dark) theme.
+27-Jun-2018 - v1.0.7  - Complete overhaul of Sublime Material (Dark) theme. Now "Material Dark".
+23-Oct-2017 - v1.0.6  - Added Sublime Material (Dark) theme from Revolution (revosw).
+23-Oct-2017 - v1.0.5  - Added Dark Extra Contrast theme from Mitch Muenster (MobileRez).
+15-Oct-2017 - v1.0.4  - Added GreenShah theme from Shahriar (yazdipour).
+10-Oct-2017 - v1.0.1  - Intial release. Includes the eight themes originally released with Color Theme Editor for Visual Studio 2017.
