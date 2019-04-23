@@ -68,6 +68,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Themes\Aletheia.xml" />
     <Content Include="Themes\Bigface.xml" />
     <Content Include="Themes\DarkExtraContrast.xml" />
     <Content Include="Themes\DarkWithLightEditor.xml" />
