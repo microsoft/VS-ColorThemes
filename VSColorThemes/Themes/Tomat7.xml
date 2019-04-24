@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Tomat7" GUID="{45b21325-5b33-40d3-9de0-9121c9928b1e}">
+  <Theme Name="Tomat7" GUID="{0b5e7ef3-57d0-4f40-8467-debe8cee04d9}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
