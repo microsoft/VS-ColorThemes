@@ -75,6 +75,7 @@
     <Content Include="Themes\Green.xml" />
     <Content Include="Themes\GreenShah.xml" />
     <Content Include="Themes\LightWithDarkEditor.xml" />
+    <Content Include="Themes\Mariana.xml" />
     <Content Include="Themes\MaterialDark.xml" />
     <Content Include="Themes\PlainDark.xml" />
     <Content Include="Themes\Purple.xml" />
