@@ -981,10 +981,10 @@
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
         <Background Type="CT_RAW" Source="FF773800" />
-        </Color>
+      </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
         <Background Type="CT_RAW" Source="FF0F202D" />
-        </Color>
+      </Color>
       <Color Name="Excluded Code">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
@@ -1014,10 +1014,10 @@
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
-        </Color>
+      </Color>
       <Color Name="deltadiff.add.line">
         <Background Type="CT_RAW" Source="FF15352C" />
-        </Color>
+      </Color>
       <Color Name="deltadiff.remove.word">
         <Background Type="CT_RAW" Source="FF3C0000" />
         <Foreground Type="CT_RAW" Source="FFFF6666" />
@@ -1048,37 +1048,37 @@
       </Color>
       <Color Name="Track reverted changes">
         <Background Type="CT_RAW" Source="FF5F95FA" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.AcceptedLine">
         <Background Type="CT_RAW" Source="FF215D4A" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.AcceptedSimilarLine">
         <Background Type="CT_RAW" Source="FF163F32" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.ConflictLine">
         <Background Type="CT_RAW" Source="FF590D0D" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.NotAcceptedLine">
         <Background Type="CT_RAW" Source="FF181C18" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.DeletedNegativeSpace">
         <Background Type="CT_RAW" Source="FFB1CE77" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.ConflictNegativeSpace">
         <Background Type="CT_RAW" Source="FFDF2424" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.NegativeSpace">
         <Background Type="CT_RAW" Source="FFD2D2D2" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.MarginIndicator">
         <Background Type="CT_RAW" Source="FFCECECE" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.ConflictMarginIndicator">
         <Background Type="CT_RAW" Source="FFDF2020" />
-        </Color>
+      </Color>
       <Color Name="mergeEditor.SelectionBox">
         <Background Type="CT_RAW" Source="FF94CBF7" />
-        </Color>
+      </Color>
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFFA000" />
@@ -1308,10 +1308,10 @@
       </Color>
       <Color Name="OverviewMarginCollapsedRegion">
         <Background Type="CT_RAW" Source="FFDCDCDC" />
-        </Color>
+      </Color>
       <Color Name="OverviewMarginBackground">
         <Background Type="CT_RAW" Source="FF3E3E42" />
-        </Color>
+      </Color>
       <Color Name="OverviewMarginVisible">
         <Background Type="CT_RAW" Source="FF000000" />
         <Foreground Type="CT_RAW" Source="FF686868" />
@@ -1321,31 +1321,31 @@
       </Color>
       <Color Name="MarkerFormatDefinition/BookmarkInScrollBar">
         <Background Type="CT_RAW" Source="FFC0C4C0" />
-        </Color>
+      </Color>
       <Color Name="MarkerFormatDefinition/BreakpointInScrollBar">
         <Background Type="CT_RAW" Source="FF903840" />
-        </Color>
+      </Color>
       <Color Name="Peek Background">
         <Background Type="CT_RAW" Source="FF001F33" />
-        </Color>
+      </Color>
       <Color Name="Peek Focused Border">
         <Foreground Type="CT_RAW" Source="FF3F51B5" />
       </Color>
       <Color Name="Peek Background Unfocused">
         <Background Type="CT_RAW" Source="FF252525" />
-        </Color>
+      </Color>
       <Color Name="Peek Label Text">
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Block Structure Adornments">
         <Background Type="CT_RAW" Source="FF717171" />
-        </Color>
+      </Color>
       <Color Name="Peek Highlighted Text">
         <Background Type="CT_RAW" Source="FF193476" />
-        </Color>
+      </Color>
       <Color Name="Peek Highlighted Text Unfocused">
         <Background Type="CT_RAW" Source="FF454545" />
-        </Color>
+      </Color>
       <Color Name="punctuation">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
@@ -1499,7 +1499,7 @@
       </Color>
       <Color Name="RazorCode">
         <Background Type="CT_RAW" Source="FF252526" />
-        </Color>
+      </Color>
       <Color Name="RazorTagHelperAttribute">
         <Foreground Type="CT_RAW" Source="FF008080" />
       </Color>
@@ -1514,7 +1514,7 @@
       </Color>
       <Color Name="Knockout Region">
         <Background Type="CT_RAW" Source="FF4B4B4B" />
-        </Color>
+      </Color>
       <Color Name="LessCssVariableDeclarationClassificationFormat">
         <Foreground Type="CT_RAW" Source="FFF48FB1" />
       </Color>
@@ -1553,7 +1553,7 @@
       </Color>
       <Color Name="MatchColor">
         <Background Type="CT_RAW" Source="FF455A64" />
-        </Color>
+      </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
@@ -1562,10 +1562,10 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF3F3F46" />
-        </Color>
+      </Color>
     </Category>
     <Category Name="CommonControls" GUID="{c01072a1-a915-4abf-89b7-e2f9e8ec4c7f}">
       <Color Name="FocusVisual">
@@ -4630,14 +4630,14 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
       <Color Name="Current List Location">
         <Background Type="CT_RAW" Source="FF7986CB" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF3F3F46" />
-        </Color>
+      </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF232323" />
         <Foreground Type="CT_RAW" Source="FFD7DDE8" />
@@ -4665,10 +4665,10 @@
       </Color>
       <Color Name="Even Row Items">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
-        </Color>
+      </Color>
       <Color Name="Odd Row Items">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
-        </Color>
+      </Color>
     </Category>
     <Category Name="FSharpInteractive" GUID="{00ccee86-3140-4e06-a65a-a92665a40d6f}">
       <Color Name="Plain Text">
@@ -4677,7 +4677,7 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
     </Category>
     <Category Name="GraphicsDebugger" GUID="{40cdc500-10ac-41df-a533-6af2aaaa0c4b}">
       <Color Name="KeyLabelText">
@@ -4860,10 +4860,10 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF3F3F46" />
-        </Color>
+      </Color>
     </Category>
     <Category Name="InfoBar" GUID="{832df9d1-d9a9-4eb7-ad13-ff5b421f7432}">
       <Color Name="Hyperlink">
@@ -5519,14 +5519,14 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
       <Color Name="Current List Location">
         <Background Type="CT_RAW" Source="FF7986CB" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF3F3F46" />
-        </Color>
+      </Color>
       <Color Name="urlformat">
         <Background Type="CT_RAW" Source="FF252526" />
         <Foreground Type="CT_RAW" Source="FF569CD6" />
@@ -5548,7 +5548,7 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
     </Category>
     <Category Name="Performance Tips" GUID="{7a4c6cc9-8404-4b95-af88-f11b657c7268}">
       <Color Name="Selected Text">
@@ -5897,16 +5897,16 @@
     <Category Name="SQL Results - Grid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
       <Color Name="Header Row">
         <Background Type="CT_RAW" Source="FF252526" />
-        </Color>
+      </Color>
       <Color Name="Selected Cell">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
       <Color Name="Inactive Selected Cell">
         <Background Type="CT_RAW" Source="FF3F3F46" />
-        </Color>
+      </Color>
       <Color Name="Null Value Cell">
         <Background Type="CT_RAW" Source="FF2D2D30" />
-        </Color>
+      </Color>
       <Color Name="Grid Cell">
         <Background Type="CT_RAW" Source="FF2D2D30" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
@@ -6851,13 +6851,13 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF7986CB" />
-        </Color>
+      </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF565656" />
-        </Color>
+      </Color>
       <Color Name="Indicator Margin">
         <Background Type="CT_RAW" Source="FF252526" />
-        </Color>
+      </Color>
       <Color Name="Visible Whitespace">
         <Foreground Type="CT_RAW" Source="FF144852" />
       </Color>
@@ -6865,14 +6865,14 @@
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
       <Color Name="Read-Only Region">
         <Background Type="CT_RAW" Source="FF5A5A5A" />
-        </Color>
+      </Color>
       <Color Name="Task List Shortcut">
         <Background Type="CT_RAW" Source="FF92CAF4" />
         <Foreground Type="CT_COLORINDEX" Source="00000002" />
       </Color>
       <Color Name="Bookmark">
         <Background Type="CT_RAW" Source="FF7E6551" />
-        </Color>
+      </Color>
       <Color Name="compiler error">
         <Foreground Type="CT_RAW" Source="FF9BD1E1" />
       </Color>
@@ -6894,25 +6894,25 @@
       </Color>
       <Color Name="Code Snippet Field">
         <Background Type="CT_RAW" Source="FF5B5B5B" />
-        </Color>
+      </Color>
       <Color Name="Code Snippet Field (Selected)">
         <Background Type="CT_RAW" Source="FF462100" />
-        </Color>
+      </Color>
       <Color Name="Smart Tag">
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="Track Changes before save">
         <Background Type="CT_RAW" Source="FFEFF284" />
-        </Color>
+      </Color>
       <Color Name="Track Changes after save">
         <Background Type="CT_RAW" Source="FF577430" />
-        </Color>
+      </Color>
       <Color Name="Brace Matching (Rectangle)">
         <Background Type="CT_RAW" Source="FF0E4583" />
-        </Color>
+      </Color>
       <Color Name="Definition Window Background">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        </Color>
+      </Color>
       <Color Name="Definition Window Current Match">
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
@@ -6922,13 +6922,13 @@
       </Color>
       <Color Name="Refactoring Background">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        </Color>
+      </Color>
       <Color Name="Code Snippet Dependent Field">
         <Foreground Type="CT_RAW" Source="FFB6613D" />
       </Color>
       <Color Name="Refactoring Current Field">
         <Background Type="CT_RAW" Source="FF507470" />
-        </Color>
+      </Color>
       <Color Name="Refactoring Dependent Field">
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
       </Color>
