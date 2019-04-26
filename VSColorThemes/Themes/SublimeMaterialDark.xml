@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Sublime Material (Dark)" GUID="{bacdda6b-0187-4262-8a05-2f083f0ff473}">
+  <Theme Name="Sublime Material (Dark)" GUID="{d34da167-b381-433a-8877-d6451a3f9c01}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
