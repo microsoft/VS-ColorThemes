@@ -1,4 +1,8 @@
-﻿[$RootKey$\Themes\{c4a22199-9441-4217-a56e-b505f615e862}]
+﻿[$RootKey$\Themes\{172a98fe-1335-47de-ba46-8dd738ff8310}]
+@="Aletheia"
+"Name"="Aletheia"
+ 
+[$RootKey$\Themes\{c4a22199-9441-4217-a56e-b505f615e862}]
 @="Bigface"
 "Name"="Bigface"
 
@@ -21,6 +25,10 @@
 [$RootKey$\Themes\{6ef95f9a-b5ee-49c3-b218-76a232fddd6d}]
 @="Light With Dark Editor"
 "Name"="Light With Dark Editor"
+
+[$RootKey$\Themes\{1a5feb04-7960-43f4-9b90-f7b0e32ffb6a}]
+@="Mariana"
+"Name"="Mariana"
 
 [$RootKey$\Themes\{d34da167-b381-433a-8877-d6451a3f9c01}]
 @="Material Dark"
