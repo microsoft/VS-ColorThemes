@@ -26,6 +26,7 @@
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\LightWithDarkEditor.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Mariana.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\MaterialDark.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\OneDarkVariant.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\PlainDark.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Purple.pkgdef" />
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Themes\Red.pkgdef" />
