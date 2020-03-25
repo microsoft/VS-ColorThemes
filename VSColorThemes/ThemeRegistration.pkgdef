@@ -1,4 +1,8 @@
-﻿[$RootKey$\Themes\{c4a22199-9441-4217-a56e-b505f615e862}]
+﻿[$RootKey$\Themes\{172a98fe-1335-47de-ba46-8dd738ff8310}]
+@="Aletheia"
+"Name"="Aletheia"
+ 
+[$RootKey$\Themes\{c4a22199-9441-4217-a56e-b505f615e862}]
 @="Bigface"
 "Name"="Bigface"
 
@@ -9,6 +13,10 @@
 [$RootKey$\Themes\{1ee2bdad-9d60-4290-8e08-7687a1e886b3}]
 @="Dark (Extra Contrast)"
 "Name"="Dark (Extra Contrast)"
+
+[$RootKey$\Themes\{493f1e62-bc24-4d4b-8b32-9f2f67abb21f}]
+@="Forester"
+"Name"="Forester"
 
 [$RootKey$\Themes\{d016fd24-5710-4580-b430-d028ca98ba03}]
 @="Green"
@@ -25,6 +33,14 @@
 [$RootKey$\Themes\{1a5feb04-7960-43f4-9b90-f7b0e32ffb6a}]
 @="Mariana"
 "Name"="Mariana"
+
+[$RootKey$\Themes\{d34da167-b381-433a-8877-d6451a3f9c01}]
+@="Material Dark"
+"Name"="Material Dark"
+
+[$RootKey$\Themes\{467d7440-db1c-44bd-be8f-1b8feaf50a60}]
+@="One Dark Variant"
+"Name"="One Dark Variant"
 
 [$RootKey$\Themes\{ebed94bb-2cbe-413a-87ad-8bed2b19d350}]
 @="Plain Dark"
@@ -49,10 +65,6 @@
 [$RootKey$\Themes\{bacdda6b-0187-4262-8a05-2f083f0ff473}]
 @="Sublime Material (Dark)"
 "Name"="Sublime Material (Dark)"
-
-[$RootKey$\Themes\{d34da167-b381-433a-8877-d6451a3f9c01}]
-@="Material Dark"
-"Name"="Material Dark"
 
 [$RootKey$\Themes\{38e3e606-7057-447d-9261-9712f3dc85d0}]
 @="Tan"
