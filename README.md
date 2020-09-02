@@ -1,5 +1,11 @@
+## Using this Extension
 
-# Contributing
+1. Download and install the extension
+1. Restart Visual Studio
+1. Navigate to _Tools > Options > Environment > General_ and select your color theme:
+   ![](https://user-images.githubusercontent.com/350947/69694799-25e2a680-112e-11ea-85d0-f6fe476168d5.png)
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
