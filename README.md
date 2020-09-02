@@ -38,3 +38,5 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
     
     c. The source.extension.manifest (don’t update the version – just add to the assets)
 8. Open a pull request and sign the Contributor License Agreement. We'll work with you to get it merged :)
+
+**NOTE: Please check the [ShellColorTokens.md](https://github.com/microsoft/VS-ColorThemes/blob/master/ShellColorTokens.md) to ensure your theme contains all of the color tokens list therein.**
