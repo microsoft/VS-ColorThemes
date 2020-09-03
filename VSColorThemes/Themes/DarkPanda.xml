@@ -1628,24 +1628,8 @@
       <Color Name="TextMate.Classifier">
         <Foreground Type="CT_RAW" Source="FFE5E5E5" />
       </Color>
-      <Color Name="mergeEditor.AcceptedLineHC">
-      </Color>
-      <Color Name="mergeEditor.AcceptedSimilarLineHC">
-      </Color>
-      <Color Name="mergeEditor.ConflictLineHC">
-      </Color>
-      <Color Name="mergeEditor.NotAcceptedLineHC">
-      </Color>
-      <Color Name="mergeEditor.DeletedNegativeSpaceHC">
-      </Color>
-      <Color Name="mergeEditor.ConflictNegativeSpaceHC">
-      </Color>
-      <Color Name="mergeEditor.NegativeSpaceHC">
-      </Color>
       <Color Name="mergeEditor.MarginIndicatorHC">
         <Background Type="CT_RAW" Source="FF8B8B8B" />
-      </Color>
-      <Color Name="mergeEditor.ConflictMarginIndicatorHC">
       </Color>
       <Color Name="mergeEditor.SelectionBoxHC">
         <Background Type="CT_RAW" Source="FF090909" />
@@ -1710,10 +1694,6 @@
       <Color Name="Inline Rename Field Text">
         <Background Type="CT_RAW" Source="FF222323" />
       </Color>
-      <Color Name="Peek History Selected">
-      </Color>
-      <Color Name="Peek History Hovered">
-      </Color>
       <Color Name="BraceCompletionClosingBrace">
         <Background Type="CT_RAW" Source="FF19F9D8" />
       </Color>
@@ -1727,20 +1707,12 @@
         <Background Type="CT_RAW" Source="FF222323" />
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
-      <Color Name="Caret (Primary)">
-      </Color>
-      <Color Name="Caret (Secondary)">
-      </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_RAW" Source="FF222323" />
       </Color>
       <Color Name="XML Doc Tag">
         <Background Type="CT_RAW" Source="FF222323" />
         <Foreground Type="CT_RAW" Source="FFADAEAE" />
-      </Color>
-      <Color Name="PeekFormatDefinition/EOIMark">
-      </Color>
-      <Color Name="PeekFormatDefinition/PeekMark">
       </Color>
       <Color Name="MarkerFormatDefinition/VerticalHighlight">
         <Background Type="CT_RAW" Source="FF222323" />
@@ -1930,10 +1902,6 @@
       <Color Name="Test Summary - No Source">
         <Background Type="CT_RAW" Source="FF222323" />
         <Foreground Type="CT_RAW" Source="FFE5E5E5" />
-      </Color>
-      <Color Name="MarkerFormatDefinition/ScrollBarComment">
-      </Color>
-      <Color Name="MarkerFormatDefinition/FilteredScrollBarComment">
       </Color>
       <Color Name="MarkerFormatDefinition/CommentMark">
         <Foreground Type="CT_RAW" Source="FFE5E5E5" />
@@ -2890,10 +2858,6 @@
       <Color Name="ActiveShapeTitle">
         <Foreground Type="CT_RAW" Source="FF090909" />
       </Color>
-      <Color Name="SelectedShapeBorder">
-      </Color>
-      <Color Name="ShapeBorder">
-      </Color>
       <Color Name="Grid">
         <Background Type="CT_RAW" Source="FFEEEEEE" />
         <Foreground Type="CT_RAW" Source="FF090909" />
@@ -2903,8 +2867,6 @@
       </Color>
       <Color Name="RelationLabel">
         <Foreground Type="CT_RAW" Source="FF090909" />
-      </Color>
-      <Color Name="SelectedRelationLine">
       </Color>
     </Category>
     <Category Name="Database Designer" GUID="{4c889e8a-2bbb-4dc8-ae21-b1e4799d7631}">
@@ -2942,8 +2904,6 @@
       </Color>
       <Color Name="SelectedText">
         <Foreground Type="CT_RAW" Source="FFEEEEEE" />
-      </Color>
-      <Color Name="ChangedText">
       </Color>
     </Category>
     <Category Name="DetailsView" GUID="{a128c60e-947c-4f26-95c9-fb4b3d53547f}">
@@ -3064,12 +3024,6 @@
       </Color>
       <Color Name="ToolbarTextDisabled">
         <Background Type="CT_RAW" Source="FF6B6B6B" />
-      </Color>
-    </Category>
-    <Category Name="Dialogs and Tool Windows" GUID="{1f987c00-e7c4-4869-8a17-23fd602268b0}">
-      <Color Name="ToolTip">
-      </Color>
-      <Color Name="ToolTipBorder">
       </Color>
     </Category>
     <Category Name="Editor Tooltip" GUID="{a9a5637f-b2a8-422e-8fb5-dfb4625f0111}">
@@ -5461,8 +5415,6 @@
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF00B497" />
       </Color>
-      <Color Name="Inactive Selected Text">
-      </Color>
       <Color Name="Selected Text in High Contrast">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
@@ -6241,8 +6193,6 @@
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF00B497" />
       </Color>
-      <Color Name="Inactive Selected Text">
-      </Color>
       <Color Name="Selected Text in High Contrast">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
@@ -6269,8 +6219,6 @@
       </Color>
       <Color Name="SelectedText">
         <Foreground Type="CT_RAW" Source="FFEEEEEE" />
-      </Color>
-      <Color Name="ChangedText">
       </Color>
     </Category>
     <Category Name="Performance Tips" GUID="{7a4c6cc9-8404-4b95-af88-f11b657c7268}">
@@ -7821,8 +7769,6 @@
       <Color Name="Collapsible Text (Expanded)">
         <Foreground Type="CT_RAW" Source="FF8B8B8B" />
       </Color>
-      <Color Name="Bookmark (Disabled)">
-      </Color>
       <Color Name="Brace Matching (Highlight)">
         <Foreground Type="CT_RAW" Source="FF222323" />
       </Color>
@@ -7841,19 +7787,11 @@
       <Color Name="Snappoint - Advanced (Alert)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
-      <Color Name="Breakpoint - Advanced (Disabled)">
-      </Color>
-      <Color Name="Snappoint (Error)">
-      </Color>
       <Color Name="Snappoint - Advanced (Checked)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
-      <Color Name="Logpoint - Advanced (Error)">
-      </Color>
       <Color Name="Logpoint - Advanced (Warning)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
-      </Color>
-      <Color Name="Breakpoint - Mapped (Disabled)">
       </Color>
       <Color Name="Logpoint (Dashed)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
@@ -7873,15 +7811,11 @@
       <Color Name="Logpoint (Enabled)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
-      <Color Name="Snappoint - Advanced (Error)">
-      </Color>
       <Color Name="Snappoint - Advanced (Enabled)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
       </Color>
       <Color Name="Snappoint - Advanced (Warning)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
-      </Color>
-      <Color Name="SQL DML Marker">
       </Color>
       <Color Name="Executing Threads IPs">
         <Foreground Type="CT_RAW" Source="FFBEBFBF" />
@@ -7903,8 +7837,6 @@
       </Color>
       <Color Name="Logpoint (Disabled)">
         <Foreground Type="CT_RAW" Source="FFF4F4F4" />
-      </Color>
-      <Color Name="Logpoint (Error)">
       </Color>
     </Category>
     <Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
