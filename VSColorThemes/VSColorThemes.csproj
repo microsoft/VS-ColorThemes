@@ -86,6 +86,7 @@
     <Content Include="Themes\SolarizedLight.xml" />
     <Content Include="Themes\SublimeMaterialDark.xml" />
     <Content Include="Themes\Tan.xml" />
+    <Content Include="Themes\TruMidnight.xml" />
     <Content Include="VsColorTheme_Icon_90x.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
