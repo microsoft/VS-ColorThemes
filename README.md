@@ -1,5 +1,11 @@
+## Using this Extension
 
-# Contributing
+1. Download and install the extension
+1. Restart Visual Studio
+1. Navigate to _Tools > Options > Environment > General_ and select your color theme:
+   ![](https://user-images.githubusercontent.com/350947/69694799-25e2a680-112e-11ea-85d0-f6fe476168d5.png)
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -15,8 +21,10 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 
 ## Steps to create a custom theme for this project
-0. Prerequisite: Install the Color Themes Editor extension for Visual Studio 2017 (https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor).
-1. Go to Tools -> Customize Colors.
+0. Prerequisite:
+* For **Visual Studio 2019**, install the Color Theme Designer extension (https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner).
+* For **Visual Studio 2017**, install the Color Themes Editor extension (https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor).
+1. Go to Tools -> Customize Colors (CTE extension), or File -> New -> Project and create a VSTheme Project (CTD extension).
 2. Hover over the original theme you want to edit and click on 'Create Copy of Theme'.
 3. Hover over the Custom Theme you created, and click on 'Edit Theme'.
 4. Edit the colors to create a new custom theme.
@@ -30,3 +38,5 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
     
     c. The source.extension.manifest (don’t update the version – just add to the assets)
 8. Open a pull request and sign the Contributor License Agreement. We'll work with you to get it merged :)
+
+**NOTE: Please check the [ShellColorTokens.md](https://github.com/microsoft/VS-ColorThemes/blob/master/ShellColorTokens.md) to ensure your theme contains all of the color tokens listed therein.**

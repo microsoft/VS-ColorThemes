@@ -71,6 +71,7 @@
     <Content Include="Themes\Aletheia.xml" />
     <Content Include="Themes\Bigface.xml" />
     <Content Include="Themes\DarkExtraContrast.xml" />
+    <Content Include="Themes\DarkPanda.xml" />
     <Content Include="Themes\DarkWithLightEditor.xml" />
     <Content Include="Themes\Dracula.xml" />
     <Content Include="Themes\Forester.xml" />
