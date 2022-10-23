@@ -8278,7 +8278,7 @@
     </Category>
     <Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
       <Color Name="WindowPanel">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF002B36" />
         <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="WindowBorder">
